@@ -1,1 +1,2 @@
 - [Project oriented learning](https://projectlearn.io/#categories)
+- [George Hotz, “The only way to learn programming“](https://www.youtube.com/watch?v=t32BNi3NEYA)
